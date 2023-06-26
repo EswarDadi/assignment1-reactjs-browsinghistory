@@ -1,0 +1,32 @@
+.list-styling {
+  list-style-type: none;
+}
+.history-item-container {
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+  justify-content: flex-start;
+}
+.time-item {
+  margin-right: 18px;
+}
+.image {
+  height: 20px;
+  padding-left: 5px;
+  margin-right: 12px;
+  margin-top: 18px;
+}
+.domain-url {
+  text-decoration: none;
+  color: #64748b;
+  margin-left: 12px;
+  margin-top: 15px;
+}
+.button {
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+  border-width: 0px;
+  margin-left: 12px;
+  margin-top: 5px;
+}

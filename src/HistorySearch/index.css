@@ -1,0 +1,13 @@
+.bg-container {
+  background-image: linear-gradient(to right, #3367d6, #2850a7);
+  padding: 15px;
+}
+.list-container {
+  padding: 25px;
+}
+.list-card-container {
+  background-color: shadow;
+  border-radius: 2px;
+  border-style: solid;
+  border-width: 0px;
+}
